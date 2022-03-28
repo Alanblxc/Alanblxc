@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Alan
+# 我是哔哩哔哩艾伦嗷
+- 一个热爱编程的~~菜鸟~~
 
-
-<!---
-Alanyjy/Alanyjy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Alanblxc&show_icons=true&theme=dark&count_private=true)

@@ -20,10 +20,7 @@
   </a>
 </h1>
 
-<div align="center">
-    
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Alanblxc&show_icons=true&theme=dark&count_private=true)
-</div>
+
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Alanblxc&theme=xcode" />

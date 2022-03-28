@@ -14,11 +14,7 @@
     
    
 
-<h1 align="center">
-  <a href="https://sunguoqi.com/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=awa;哔哩哔哩艾伦嗷!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7F7F7&center=true&lines=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%89%BE%E4%BC%A6%E5%97%B7;QWQ)](https://git.io/typing-svg)
 
 
 
